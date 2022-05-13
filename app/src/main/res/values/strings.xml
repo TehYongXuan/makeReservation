@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="make_reservation">Make Reservation</string>
+    <string name="particulars">particulars:</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="number_of_pax">number of pax</string>
+    <string name="date_time_booking">Date/Time booking:</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+
+
+</resources>
